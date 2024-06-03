@@ -1,0 +1,75 @@
+
+
+#index-body{
+    font-family: Arial, sans-serif;
+    background-color: #f5f2f2; /* Light gray background */
+    margin: 10px;
+    padding: 4px;
+}
+
+#Account-body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#contactus-body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#Designs-body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#home-body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#signup-body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#button1{
+    color: rgb(128, 29, 90);
+    padding: 10px;
+    size: 300px;
+    position:relative;
+    text-align: center;
+    transition:background-color 0.3s ease;
+    margin: 40px 20px;
+    font-size:50px;
+
+
+}
+#button1:hover{
+  background-color: rgb(223, 201, 201);
+}
+
+#button2{
+    color: rgb(128, 29, 90);
+    padding: 10px;
+    size: 300px;
+    position:relative;
+    text-align: center;
+    transition:background-color 0.3s ease;
+    margin: 40px 20px;
+    font-size:50px;
+}
+
+#button2:hover{
+    background-color: rgb(223, 201, 201);
+}
+
+#Account-paragraphs{
+    font-size:15px;
+}
+
+#contactus-paragraphs{
+    font-size:15px;
+}
+
+#design-paragraphs{
+    font-size:15px; 
+}
+
+#home-parahraphs{
+    font-size:15px; 
+}
